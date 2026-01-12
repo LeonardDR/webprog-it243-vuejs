@@ -6,7 +6,7 @@
 export default {
   data() {
     return {
-      message: 'Can you hear us?  Awesome!'
+      message: 'WEBPROG IT 243 FROM Github.dev to Vercel! '
     };
   }
 };
