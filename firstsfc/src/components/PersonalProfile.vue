@@ -32,5 +32,7 @@
   </div>  
   <div>Picture Gallery <br>
   
+</template>
+
 <script></script>
 <style></style>
