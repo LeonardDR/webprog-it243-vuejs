@@ -4,7 +4,7 @@
   <food-item/>
   <food-item/>
 </template>
-
+ 
 <script></script>
-
+ 
 <style></style>
