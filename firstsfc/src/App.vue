@@ -1,11 +1,11 @@
 <template>
-  <h1>Food</h1>
+  <h1>My Personal Profile Page</h1>
+  <food-item/>
   <country/>
-  <food-item/>
-  <food-item/>
-  <food-item/>
   <comment-form/>
   <comment/>
+
+
    
 
 </template>
