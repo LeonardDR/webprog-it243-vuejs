@@ -1,11 +1,9 @@
 <template>
   <h1>My Personal Profile Page</h1>
   <food-item/>
-  <country/>
+  <personal-profile/>
   <comment-form/>
   <comment/>
-
-
    
 
 </template>
