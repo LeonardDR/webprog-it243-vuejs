@@ -15,4 +15,5 @@ app.component('personal-profile', PersonalProfile)
 app.component('comment-form', CommentForm)
 app.component('comment', Comment)
 app.component('rest-api', RestApi)
+
 app.mount('#app')
